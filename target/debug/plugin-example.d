@@ -1,0 +1,1 @@
+C:\Users\Aakash\Desktop\Rust\ Project\Sprocket\ Plugin\Toy-plugin\sprocket-plugin-toy\target\debug\plugin-example.exe: C:\Users\Aakash\Desktop\Rust\ Project\Sprocket\ Plugin\Toy-plugin\sprocket-plugin-toy\plugin-example\src\main.rs
